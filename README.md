@@ -1,1 +1,7 @@
-# Development-of-Neural-based-Control-System-for-6-DoF-Robotic-Arm
+This project is my Bachelor's thesis. It presents the development of a Brain-Computer Interface (BCI) system for controlling a 6 Degrees of Freedom (DoF) robotic arm in real time using neural signals.
+
+In this system, an OpenBCI Cyton biosensing board collects Steady-State Visual Evoked Potentials (SSVEPs), one kind of Electroencephalogram (EEG) signal, from a user when they are looking at 1 amongst 9 blinking boxes (from 14 to 18 Hz with 0.5 Hz intervals) then transmits the collected data to a computer for preprocessing and translation into corresponding desired configurations for the robotic arm with Canonical Correlation Analysis (CCA). Therefore, the computer uses these desired configurations to calculate desired joint angles based on Product of Exponentials (PoE) and Newton Raphson Method, then actuates Dynamixel servo motors of the robotic arm with the calculated results, moving the arm to the coressponding assigned position. The communication between the biosensing board, the computer and the robotic arm is established based on Robot Operating System (ROS 2) framework.
+
+There are 2 launch files in this project: "test" and "real". For "test" launch file, the OpenBCI board won't be used and a user simply types the frequency they want to feed the system. Meanwhile, "real" launch file requires the OpenBCI board to collect neural signals from the user's scalp and process them in real time.
+
+The 9 blinking boxes are created using the web-based application: https://github.com/OmidS/quickssvep
