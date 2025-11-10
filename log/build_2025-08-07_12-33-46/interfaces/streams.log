@@ -1,0 +1,251 @@
+[0.058s] Invoking command in '/home/tumirk/thesis_ws/build/interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tumirk/thesis_ws/install/IK_pkg:/home/tumirk/ws_moveit/install/moveit_configs_utils:/home/tumirk/ws_moveit/install/launch_param_builder:/opt/ros/humble:/home/tumirk/ros2_humble/install/rqt_bag_plugins:/home/tumirk/ros2_humble/install/rqt_bag:/home/tumirk/ros2_humble/install/launch_testing_examples:/home/tumirk/ros2_humble/install/ros2bag:/home/tumirk/ros2_humble/install/tracetools_test:/home/tumirk/ros2_humble/install/tracetools_launch:/home/tumirk/ros2_humble/install/topic_monitor:/home/tumirk/ros2_humble/install/tf2_tools:/home/tumirk/ros2_humble/install/examples_tf2_py:/home/tumirk/ros2_humble/install/tf2_ros_py:/home/tumirk/ros2_humble/install/sros2:/home/tumirk/ros2_humble/install/rqt_topic:/home/tumirk/ros2_humble/install/rqt_srv:/home/tumirk/ros2_humble/install/rqt_shell:/home/tumirk/ros2_humble/install/rqt_service_caller:/home/tumirk/ros2_humble/install/rqt_reconfigure:/home/tumirk/ros2_humble/install/rqt_py_console:/home/tumirk/ros2_humble/install/rqt_publisher:/home/tumirk/ros2_humble/install/rqt_plot:/home/tumirk/ros2_humble/install/rqt_action:/home/tumirk/ros2_humble/install/rqt_msg:/home/tumirk/ros2_humble/install/rqt_console:/home/tumirk/ros2_humble/install/rqt:/home/tumirk/ros2_humble/install/rqt_graph:/home/tumirk/ros2_humble/install/rqt_gui_py:/home/tumirk/ros2_humble/install/rqt_gui:/home/tumirk/ros2_humble/install/ros2trace:/home/tumirk/ros2_humble/install/ros2topic:/home/tumirk/ros2_humble/install/ros2test:/home/tumirk/ros2_humble/install/ros2component:/home/tumirk/ros2_humble/install/ros2param:/home/tumirk/ros2_humble/install/ros2lifecycle:/home/tumirk/ros2_humble/install/ros2service:/home/tumirk/ros2_humble/install/ros2run:/home/tumirk/ros2_humble/install/ros2launch:/home/tumirk/ros2_humble/install/ros2pkg:/home/tumirk/ros2_humble/install/ros2node:/home/tumirk/ros2_humble/install/ros2multicast:/home/tumirk/ros2_humble/install/ros2interface:/home/tumirk/ros2_humble/install/ros2doctor:/home/tumirk/ros2_humble/install/ros2action:/home/tumirk/ros2_humble/install/ros2cli:/home/tumirk/ros2_humble/install/quality_of_service_demo_py:/home/tumirk/ros2_humble/install/lifecycle_py:/home/tumirk/ros2_humble/install/launch_testing_ros:/home/tumirk/ros2_humble/install/launch_ros:/home/tumirk/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_service:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_client:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_server:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_client:/home/tumirk/ros2_humble/install/examples_rclpy_guard_conditions:/home/tumirk/ros2_humble/install/examples_rclpy_executors:/home/tumirk/ros2_humble/install/demo_nodes_py:/home/tumirk/ros2_humble/install/camera_info_manager_py:/home/tumirk/ros2_humble/install/action_tutorials_py:/home/tumirk/ros2_humble/install/ament_uncrustify:/home/tumirk/ros2_humble/install/tracetools_trace:/home/tumirk/ros2_humble/install/tracetools_read:/home/tumirk/ros2_humble/install/test_tracetools_launch:/home/tumirk/ros2_humble/install/test_launch_ros:/home/tumirk/ros2_humble/install/sensor_msgs_py:/home/tumirk/ros2_humble/install/rpyutils:/home/tumirk/ros2_humble/install/rosidl_runtime_py:/home/tumirk/ros2_humble/install/rosidl_cli:/home/tumirk/ros2_humble/install/launch_pytest:/home/tumirk/ros2_humble/install/launch_testing:/home/tumirk/ros2_humble/install/launch_yaml:/home/tumirk/ros2_humble/install/launch_xml:/home/tumirk/ros2_humble/install/launch:/home/tumirk/ros2_humble/install/osrf_pycommon:/home/tumirk/ros2_humble/install/domain_coordinator:/home/tumirk/ros2_humble/install/ament_xmllint:/home/tumirk/ros2_humble/install/ament_pyflakes:/home/tumirk/ros2_humble/install/ament_pycodestyle:/home/tumirk/ros2_humble/install/ament_pep257:/home/tumirk/ros2_humble/install/ament_pclint:/home/tumirk/ros2_humble/install/ament_package:/home/tumirk/ros2_humble/install/ament_mypy:/home/tumirk/ros2_humble/install/ament_lint_cmake:/home/tumirk/ros2_humble/install/ament_flake8:/home/tumirk/ros2_humble/install/ament_copyright:/home/tumirk/ros2_humble/install/ament_lint:/home/tumirk/ros2_humble/install/ament_index_python:/home/tumirk/ros2_humble/install/ament_cpplint:/home/tumirk/ros2_humble/install/ament_cppcheck:/home/tumirk/ros2_humble/install/ament_clang_tidy:/home/tumirk/ros2_humble/install/ament_clang_format /usr/bin/cmake --build /home/tumirk/thesis_ws/build/interfaces -- -j6 -l6
+[0.351s] -- Found ament_cmake: 1.3.11 (/home/tumirk/ros2_humble/install/ament_cmake/share/ament_cmake/cmake)
+[0.781s] -- Found rosidl_default_generators: 1.2.0 (/home/tumirk/ros2_humble/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[0.928s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.935s] -- Found rosidl_adapter: 3.1.6 (/home/tumirk/ros2_humble/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[1.044s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.891s] -- Found ament_cmake_ros: 0.10.0 (/home/tumirk/ros2_humble/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[2.510s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.384s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.477s] -- Found python_cmake_module: 0.10.0 (/home/tumirk/ros2_humble/install/python_cmake_module/share/python_cmake_module/cmake)
+[3.568s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.568s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.568s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.974s] -- Configuring done
+[4.048s] -- Generating done
+[4.062s] -- Build files have been written to: /home/tumirk/thesis_ws/build/interfaces
+[4.125s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[4.157s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[4.188s] [  5%] Built target ament_cmake_python_copy_interfaces
+[4.913s] [  5%] Built target interfaces__cpp
+[4.958s] [  7%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[4.980s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[4.988s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[4.989s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_generator_c[0m
+[4.994s] running egg_info
+[4.997s] writing interfaces.egg-info/PKG-INFO
+[4.997s] writing dependency_links to interfaces.egg-info/dependency_links.txt
+[4.998s] writing top-level names to interfaces.egg-info/top_level.txt
+[5.006s] reading manifest file 'interfaces.egg-info/SOURCES.txt'
+[5.009s] writing manifest file 'interfaces.egg-info/SOURCES.txt'
+[5.045s] [ 15%] [32mBuilding C object CMakeFiles/interfaces__rosidl_generator_c.dir/rosidl_generator_c/interfaces/srv/detail/control_motor__functions.c.o[0m
+[5.046s] [ 17%] [32mBuilding C object CMakeFiles/interfaces__rosidl_generator_c.dir/rosidl_generator_c/interfaces/srv/detail/compute_ik__functions.c.o[0m
+[5.084s] [ 17%] Built target ament_cmake_python_build_interfaces_egg
+[5.291s] [ 20%] [32m[1mLinking C shared library libinterfaces__rosidl_generator_c.so[0m
+[5.406s] [ 20%] Built target interfaces__rosidl_generator_c
+[5.443s] [ 23%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[5.449s] [ 28%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[5.450s] [ 25%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.687s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_cpp[0m
+[5.739s] [ 30%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interfaces/srv/compute_ik__type_support.cpp.o[0m
+[5.849s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[5.910s] [ 33%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interfaces/srv/detail/dds_fastrtps/compute_ik__type_support.cpp.o[0m
+[5.983s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_introspection_cpp[0m
+[6.024s] [ 35%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/srv/detail/compute_ik__type_support.cpp.o[0m
+[6.294s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_c[0m
+[6.356s] [ 38%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/interfaces/srv/compute_ik__type_support.cpp.o[0m
+[6.510s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_fastrtps_c[0m
+[6.528s] [ 41%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/interfaces/srv/control_motor__type_support.cpp.o[0m
+[6.549s] [ 43%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interfaces/srv/detail/compute_ik__type_support_c.cpp.o[0m
+[6.590s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_introspection_c[0m
+[6.611s] [ 46%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interfaces/srv/control_motor__type_support.cpp.o[0m
+[6.634s] [ 48%] [32m[1mLinking CXX shared library libinterfaces__rosidl_typesupport_c.so[0m
+[6.640s] [ 51%] [32mBuilding C object CMakeFiles/interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interfaces/srv/detail/compute_ik__type_support.c.o[0m
+[6.798s] [ 53%] [32mBuilding C object CMakeFiles/interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interfaces/srv/detail/control_motor__type_support.c.o[0m
+[6.853s] [ 53%] Built target interfaces__rosidl_typesupport_c
+[6.874s] [ 56%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interfaces/srv/detail/control_motor__type_support.cpp.o[0m
+[6.888s] [ 58%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interfaces/srv/detail/dds_fastrtps/control_motor__type_support.cpp.o[0m
+[6.914s] [ 61%] [32m[1mLinking C shared library libinterfaces__rosidl_typesupport_introspection_c.so[0m
+[6.917s] [ 64%] [32mBuilding CXX object CMakeFiles/interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interfaces/srv/detail/control_motor__type_support_c.cpp.o[0m
+[7.064s] [ 64%] Built target interfaces__rosidl_typesupport_introspection_c
+[7.115s] [ 66%] [32m[1mLinking CXX shared library libinterfaces__rosidl_typesupport_cpp.so[0m
+[7.220s] [ 66%] Built target interfaces__rosidl_typesupport_cpp
+[7.426s] [ 69%] [32m[1mLinking CXX shared library libinterfaces__rosidl_typesupport_fastrtps_c.so[0m
+[7.510s] [ 71%] [32m[1mLinking CXX shared library libinterfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[7.512s] [ 74%] [32m[1mLinking CXX shared library libinterfaces__rosidl_typesupport_introspection_cpp.so[0m
+[7.563s] [ 74%] Built target interfaces__rosidl_typesupport_fastrtps_c
+[7.655s] [ 74%] Built target interfaces__rosidl_typesupport_introspection_cpp
+[7.658s] [ 74%] Built target interfaces__rosidl_typesupport_fastrtps_cpp
+[7.713s] [ 74%] Built target interfaces
+[7.765s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[8.565s] [ 76%] Built target interfaces__py
+[8.592s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_generator_py[0m
+[8.622s] [ 79%] [32mBuilding C object CMakeFiles/interfaces__rosidl_generator_py.dir/rosidl_generator_py/interfaces/srv/_compute_ik_s.c.o[0m
+[8.622s] [ 82%] [32mBuilding C object CMakeFiles/interfaces__rosidl_generator_py.dir/rosidl_generator_py/interfaces/srv/_control_motor_s.c.o[0m
+[8.825s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/interfaces/libinterfaces__rosidl_generator_py.so[0m
+[8.913s] [ 84%] Built target interfaces__rosidl_generator_py
+[8.945s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[8.945s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[8.945s] [35m[1mConsolidate compiler generated dependencies of target interfaces__rosidl_typesupport_c__pyext[0m
+[8.978s] [ 89%] [32mBuilding C object CMakeFiles/interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/interfaces/_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[8.978s] [ 89%] [32mBuilding C object CMakeFiles/interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/interfaces/_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[8.986s] [ 92%] [32mBuilding C object CMakeFiles/interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/interfaces/_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[9.141s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/interfaces/interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.154s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/interfaces/interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.162s] [100%] [32m[1mLinking C shared library rosidl_generator_py/interfaces/interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[9.224s] [100%] Built target interfaces__rosidl_typesupport_c__pyext
+[9.245s] [100%] Built target interfaces__rosidl_typesupport_fastrtps_c__pyext
+[9.245s] [100%] Built target interfaces__rosidl_typesupport_introspection_c__pyext
+[9.269s] Invoked command in '/home/tumirk/thesis_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tumirk/thesis_ws/install/IK_pkg:/home/tumirk/ws_moveit/install/moveit_configs_utils:/home/tumirk/ws_moveit/install/launch_param_builder:/opt/ros/humble:/home/tumirk/ros2_humble/install/rqt_bag_plugins:/home/tumirk/ros2_humble/install/rqt_bag:/home/tumirk/ros2_humble/install/launch_testing_examples:/home/tumirk/ros2_humble/install/ros2bag:/home/tumirk/ros2_humble/install/tracetools_test:/home/tumirk/ros2_humble/install/tracetools_launch:/home/tumirk/ros2_humble/install/topic_monitor:/home/tumirk/ros2_humble/install/tf2_tools:/home/tumirk/ros2_humble/install/examples_tf2_py:/home/tumirk/ros2_humble/install/tf2_ros_py:/home/tumirk/ros2_humble/install/sros2:/home/tumirk/ros2_humble/install/rqt_topic:/home/tumirk/ros2_humble/install/rqt_srv:/home/tumirk/ros2_humble/install/rqt_shell:/home/tumirk/ros2_humble/install/rqt_service_caller:/home/tumirk/ros2_humble/install/rqt_reconfigure:/home/tumirk/ros2_humble/install/rqt_py_console:/home/tumirk/ros2_humble/install/rqt_publisher:/home/tumirk/ros2_humble/install/rqt_plot:/home/tumirk/ros2_humble/install/rqt_action:/home/tumirk/ros2_humble/install/rqt_msg:/home/tumirk/ros2_humble/install/rqt_console:/home/tumirk/ros2_humble/install/rqt:/home/tumirk/ros2_humble/install/rqt_graph:/home/tumirk/ros2_humble/install/rqt_gui_py:/home/tumirk/ros2_humble/install/rqt_gui:/home/tumirk/ros2_humble/install/ros2trace:/home/tumirk/ros2_humble/install/ros2topic:/home/tumirk/ros2_humble/install/ros2test:/home/tumirk/ros2_humble/install/ros2component:/home/tumirk/ros2_humble/install/ros2param:/home/tumirk/ros2_humble/install/ros2lifecycle:/home/tumirk/ros2_humble/install/ros2service:/home/tumirk/ros2_humble/install/ros2run:/home/tumirk/ros2_humble/install/ros2launch:/home/tumirk/ros2_humble/install/ros2pkg:/home/tumirk/ros2_humble/install/ros2node:/home/tumirk/ros2_humble/install/ros2multicast:/home/tumirk/ros2_humble/install/ros2interface:/home/tumirk/ros2_humble/install/ros2doctor:/home/tumirk/ros2_humble/install/ros2action:/home/tumirk/ros2_humble/install/ros2cli:/home/tumirk/ros2_humble/install/quality_of_service_demo_py:/home/tumirk/ros2_humble/install/lifecycle_py:/home/tumirk/ros2_humble/install/launch_testing_ros:/home/tumirk/ros2_humble/install/launch_ros:/home/tumirk/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_service:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_client:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_server:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_client:/home/tumirk/ros2_humble/install/examples_rclpy_guard_conditions:/home/tumirk/ros2_humble/install/examples_rclpy_executors:/home/tumirk/ros2_humble/install/demo_nodes_py:/home/tumirk/ros2_humble/install/camera_info_manager_py:/home/tumirk/ros2_humble/install/action_tutorials_py:/home/tumirk/ros2_humble/install/ament_uncrustify:/home/tumirk/ros2_humble/install/tracetools_trace:/home/tumirk/ros2_humble/install/tracetools_read:/home/tumirk/ros2_humble/install/test_tracetools_launch:/home/tumirk/ros2_humble/install/test_launch_ros:/home/tumirk/ros2_humble/install/sensor_msgs_py:/home/tumirk/ros2_humble/install/rpyutils:/home/tumirk/ros2_humble/install/rosidl_runtime_py:/home/tumirk/ros2_humble/install/rosidl_cli:/home/tumirk/ros2_humble/install/launch_pytest:/home/tumirk/ros2_humble/install/launch_testing:/home/tumirk/ros2_humble/install/launch_yaml:/home/tumirk/ros2_humble/install/launch_xml:/home/tumirk/ros2_humble/install/launch:/home/tumirk/ros2_humble/install/osrf_pycommon:/home/tumirk/ros2_humble/install/domain_coordinator:/home/tumirk/ros2_humble/install/ament_xmllint:/home/tumirk/ros2_humble/install/ament_pyflakes:/home/tumirk/ros2_humble/install/ament_pycodestyle:/home/tumirk/ros2_humble/install/ament_pep257:/home/tumirk/ros2_humble/install/ament_pclint:/home/tumirk/ros2_humble/install/ament_package:/home/tumirk/ros2_humble/install/ament_mypy:/home/tumirk/ros2_humble/install/ament_lint_cmake:/home/tumirk/ros2_humble/install/ament_flake8:/home/tumirk/ros2_humble/install/ament_copyright:/home/tumirk/ros2_humble/install/ament_lint:/home/tumirk/ros2_humble/install/ament_index_python:/home/tumirk/ros2_humble/install/ament_cpplint:/home/tumirk/ros2_humble/install/ament_cppcheck:/home/tumirk/ros2_humble/install/ament_clang_tidy:/home/tumirk/ros2_humble/install/ament_clang_format /usr/bin/cmake --build /home/tumirk/thesis_ws/build/interfaces -- -j6 -l6
+[9.297s] Invoking command in '/home/tumirk/thesis_ws/build/interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tumirk/thesis_ws/install/IK_pkg:/home/tumirk/ws_moveit/install/moveit_configs_utils:/home/tumirk/ws_moveit/install/launch_param_builder:/opt/ros/humble:/home/tumirk/ros2_humble/install/rqt_bag_plugins:/home/tumirk/ros2_humble/install/rqt_bag:/home/tumirk/ros2_humble/install/launch_testing_examples:/home/tumirk/ros2_humble/install/ros2bag:/home/tumirk/ros2_humble/install/tracetools_test:/home/tumirk/ros2_humble/install/tracetools_launch:/home/tumirk/ros2_humble/install/topic_monitor:/home/tumirk/ros2_humble/install/tf2_tools:/home/tumirk/ros2_humble/install/examples_tf2_py:/home/tumirk/ros2_humble/install/tf2_ros_py:/home/tumirk/ros2_humble/install/sros2:/home/tumirk/ros2_humble/install/rqt_topic:/home/tumirk/ros2_humble/install/rqt_srv:/home/tumirk/ros2_humble/install/rqt_shell:/home/tumirk/ros2_humble/install/rqt_service_caller:/home/tumirk/ros2_humble/install/rqt_reconfigure:/home/tumirk/ros2_humble/install/rqt_py_console:/home/tumirk/ros2_humble/install/rqt_publisher:/home/tumirk/ros2_humble/install/rqt_plot:/home/tumirk/ros2_humble/install/rqt_action:/home/tumirk/ros2_humble/install/rqt_msg:/home/tumirk/ros2_humble/install/rqt_console:/home/tumirk/ros2_humble/install/rqt:/home/tumirk/ros2_humble/install/rqt_graph:/home/tumirk/ros2_humble/install/rqt_gui_py:/home/tumirk/ros2_humble/install/rqt_gui:/home/tumirk/ros2_humble/install/ros2trace:/home/tumirk/ros2_humble/install/ros2topic:/home/tumirk/ros2_humble/install/ros2test:/home/tumirk/ros2_humble/install/ros2component:/home/tumirk/ros2_humble/install/ros2param:/home/tumirk/ros2_humble/install/ros2lifecycle:/home/tumirk/ros2_humble/install/ros2service:/home/tumirk/ros2_humble/install/ros2run:/home/tumirk/ros2_humble/install/ros2launch:/home/tumirk/ros2_humble/install/ros2pkg:/home/tumirk/ros2_humble/install/ros2node:/home/tumirk/ros2_humble/install/ros2multicast:/home/tumirk/ros2_humble/install/ros2interface:/home/tumirk/ros2_humble/install/ros2doctor:/home/tumirk/ros2_humble/install/ros2action:/home/tumirk/ros2_humble/install/ros2cli:/home/tumirk/ros2_humble/install/quality_of_service_demo_py:/home/tumirk/ros2_humble/install/lifecycle_py:/home/tumirk/ros2_humble/install/launch_testing_ros:/home/tumirk/ros2_humble/install/launch_ros:/home/tumirk/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_service:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_client:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_server:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_client:/home/tumirk/ros2_humble/install/examples_rclpy_guard_conditions:/home/tumirk/ros2_humble/install/examples_rclpy_executors:/home/tumirk/ros2_humble/install/demo_nodes_py:/home/tumirk/ros2_humble/install/camera_info_manager_py:/home/tumirk/ros2_humble/install/action_tutorials_py:/home/tumirk/ros2_humble/install/ament_uncrustify:/home/tumirk/ros2_humble/install/tracetools_trace:/home/tumirk/ros2_humble/install/tracetools_read:/home/tumirk/ros2_humble/install/test_tracetools_launch:/home/tumirk/ros2_humble/install/test_launch_ros:/home/tumirk/ros2_humble/install/sensor_msgs_py:/home/tumirk/ros2_humble/install/rpyutils:/home/tumirk/ros2_humble/install/rosidl_runtime_py:/home/tumirk/ros2_humble/install/rosidl_cli:/home/tumirk/ros2_humble/install/launch_pytest:/home/tumirk/ros2_humble/install/launch_testing:/home/tumirk/ros2_humble/install/launch_yaml:/home/tumirk/ros2_humble/install/launch_xml:/home/tumirk/ros2_humble/install/launch:/home/tumirk/ros2_humble/install/osrf_pycommon:/home/tumirk/ros2_humble/install/domain_coordinator:/home/tumirk/ros2_humble/install/ament_xmllint:/home/tumirk/ros2_humble/install/ament_pyflakes:/home/tumirk/ros2_humble/install/ament_pycodestyle:/home/tumirk/ros2_humble/install/ament_pep257:/home/tumirk/ros2_humble/install/ament_pclint:/home/tumirk/ros2_humble/install/ament_package:/home/tumirk/ros2_humble/install/ament_mypy:/home/tumirk/ros2_humble/install/ament_lint_cmake:/home/tumirk/ros2_humble/install/ament_flake8:/home/tumirk/ros2_humble/install/ament_copyright:/home/tumirk/ros2_humble/install/ament_lint:/home/tumirk/ros2_humble/install/ament_index_python:/home/tumirk/ros2_humble/install/ament_cpplint:/home/tumirk/ros2_humble/install/ament_cppcheck:/home/tumirk/ros2_humble/install/ament_clang_tidy:/home/tumirk/ros2_humble/install/ament_clang_format /usr/bin/cmake --install /home/tumirk/thesis_ws/build/interfaces
+[9.320s] -- Install configuration: ""
+[9.321s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/ament_index/resource_index/rosidl_interfaces/interfaces
+[9.321s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces
+[9.321s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv
+[9.321s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail
+[9.321s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__functions.c
+[9.322s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__functions.c
+[9.322s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__struct.h
+[9.322s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__struct.h
+[9.323s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__functions.h
+[9.323s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__type_support.h
+[9.323s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__type_support.h
+[9.323s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__functions.h
+[9.323s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/compute_ik.h
+[9.323s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/control_motor.h
+[9.323s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg
+[9.324s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg/rosidl_generator_c__visibility_control.h
+[9.324s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/environment/library_path.sh
+[9.324s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/environment/library_path.dsv
+[9.324s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_generator_c.so
+[9.325s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_generator_c.so" to ""
+[9.325s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces
+[9.325s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv
+[9.325s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail
+[9.326s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__rosidl_typesupport_fastrtps_c.h
+[9.326s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__rosidl_typesupport_fastrtps_c.h
+[9.326s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg
+[9.326s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[9.326s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_fastrtps_c.so
+[9.326s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[9.326s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces
+[9.327s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv
+[9.327s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail
+[9.327s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__rosidl_typesupport_introspection_c.h
+[9.327s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__type_support.c
+[9.327s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__type_support.c
+[9.327s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__rosidl_typesupport_introspection_c.h
+[9.327s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg
+[9.328s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[9.328s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_introspection_c.so
+[9.329s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_introspection_c.so" to ""
+[9.329s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_c.so
+[9.330s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_c.so" to ""
+[9.330s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces
+[9.331s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv
+[9.331s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/control_motor.hpp
+[9.331s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail
+[9.331s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__struct.hpp
+[9.332s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__builder.hpp
+[9.332s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__builder.hpp
+[9.332s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__type_support.hpp
+[9.332s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__traits.hpp
+[9.333s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__type_support.hpp
+[9.333s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__traits.hpp
+[9.333s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__struct.hpp
+[9.333s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/compute_ik.hpp
+[9.333s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg
+[9.333s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[9.333s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces
+[9.334s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv
+[9.334s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail
+[9.334s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__rosidl_typesupport_fastrtps_cpp.hpp
+[9.334s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__rosidl_typesupport_fastrtps_cpp.hpp
+[9.334s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/dds_fastrtps
+[9.334s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg
+[9.335s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[9.335s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_fastrtps_cpp.so
+[9.335s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[9.335s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces
+[9.335s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv
+[9.335s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail
+[9.335s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__type_support.cpp
+[9.335s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__type_support.cpp
+[9.335s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/control_motor__rosidl_typesupport_introspection_cpp.hpp
+[9.335s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/include/interfaces/interfaces/srv/detail/compute_ik__rosidl_typesupport_introspection_cpp.hpp
+[9.336s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_introspection_cpp.so
+[9.336s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[9.337s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_cpp.so
+[9.338s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_typesupport_cpp.so" to ""
+[9.338s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/environment/pythonpath.sh
+[9.339s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/environment/pythonpath.dsv
+[9.339s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces-0.0.0-py3.10.egg-info
+[9.339s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[9.340s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[9.340s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[9.340s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[9.341s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces
+[9.341s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[9.341s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[9.342s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/__init__.py
+[9.342s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[9.342s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv
+[9.343s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/_control_motor.py
+[9.343s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/_compute_ik_s.c
+[9.343s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/__init__.py
+[9.343s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/_control_motor_s.c
+[9.343s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/_compute_ik.py
+[9.343s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/libinterfaces__rosidl_generator_py.so
+[9.343s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/_interfaces_s.ep.rosidl_typesupport_c.c
+[9.344s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[9.344s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[9.560s] Listing '/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces'...
+[9.561s] Compiling '/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/__init__.py'...
+[9.561s] Listing '/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv'...
+[9.561s] Compiling '/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/__init__.py'...
+[9.561s] Compiling '/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/_compute_ik.py'...
+[9.561s] Compiling '/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/srv/_control_motor.py'...
+[9.569s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[9.569s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[9.569s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[9.570s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[9.570s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[9.570s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/local/lib/python3.10/dist-packages/interfaces/interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[9.571s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_generator_py.so
+[9.571s] -- Set runtime path of "/home/tumirk/thesis_ws/install/interfaces/lib/libinterfaces__rosidl_generator_py.so" to ""
+[9.572s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ComputeIK.idl
+[9.572s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ControlMotor.idl
+[9.572s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ComputeIK.srv
+[9.573s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ComputeIK_Request.msg
+[9.573s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ComputeIK_Response.msg
+[9.573s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ControlMotor.srv
+[9.573s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ControlMotor_Request.msg
+[9.573s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/srv/ControlMotor_Response.msg
+[9.574s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/ament_index/resource_index/package_run_dependencies/interfaces
+[9.574s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/ament_index/resource_index/parent_prefix_path/interfaces
+[9.574s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/environment/ament_prefix_path.dsv
+[9.575s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/environment/path.dsv
+[9.575s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/local_setup.bash
+[9.576s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/local_setup.sh
+[9.576s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/local_setup.zsh
+[9.576s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/local_setup.dsv
+[9.576s] -- Installing: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/package.dsv
+[9.576s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/ament_index/resource_index/packages/interfaces
+[9.577s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_generator_cExport.cmake
+[9.578s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_generator_cExport-noconfig.cmake
+[9.578s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[9.578s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[9.578s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_introspection_cExport.cmake
+[9.579s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[9.579s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_cExport.cmake
+[9.579s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[9.579s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_generator_cppExport.cmake
+[9.580s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[9.580s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[9.581s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[9.581s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[9.581s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_cppExport.cmake
+[9.581s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[9.582s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_generator_pyExport.cmake
+[9.582s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/export_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[9.582s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/rosidl_cmake-extras.cmake
+[9.582s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[9.583s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[9.583s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[9.583s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[9.583s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[9.584s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[9.584s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfacesConfig.cmake
+[9.584s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/cmake/interfacesConfig-version.cmake
+[9.584s] -- Up-to-date: /home/tumirk/thesis_ws/install/interfaces/share/interfaces/package.xml
+[9.587s] Invoked command in '/home/tumirk/thesis_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tumirk/thesis_ws/install/IK_pkg:/home/tumirk/ws_moveit/install/moveit_configs_utils:/home/tumirk/ws_moveit/install/launch_param_builder:/opt/ros/humble:/home/tumirk/ros2_humble/install/rqt_bag_plugins:/home/tumirk/ros2_humble/install/rqt_bag:/home/tumirk/ros2_humble/install/launch_testing_examples:/home/tumirk/ros2_humble/install/ros2bag:/home/tumirk/ros2_humble/install/tracetools_test:/home/tumirk/ros2_humble/install/tracetools_launch:/home/tumirk/ros2_humble/install/topic_monitor:/home/tumirk/ros2_humble/install/tf2_tools:/home/tumirk/ros2_humble/install/examples_tf2_py:/home/tumirk/ros2_humble/install/tf2_ros_py:/home/tumirk/ros2_humble/install/sros2:/home/tumirk/ros2_humble/install/rqt_topic:/home/tumirk/ros2_humble/install/rqt_srv:/home/tumirk/ros2_humble/install/rqt_shell:/home/tumirk/ros2_humble/install/rqt_service_caller:/home/tumirk/ros2_humble/install/rqt_reconfigure:/home/tumirk/ros2_humble/install/rqt_py_console:/home/tumirk/ros2_humble/install/rqt_publisher:/home/tumirk/ros2_humble/install/rqt_plot:/home/tumirk/ros2_humble/install/rqt_action:/home/tumirk/ros2_humble/install/rqt_msg:/home/tumirk/ros2_humble/install/rqt_console:/home/tumirk/ros2_humble/install/rqt:/home/tumirk/ros2_humble/install/rqt_graph:/home/tumirk/ros2_humble/install/rqt_gui_py:/home/tumirk/ros2_humble/install/rqt_gui:/home/tumirk/ros2_humble/install/ros2trace:/home/tumirk/ros2_humble/install/ros2topic:/home/tumirk/ros2_humble/install/ros2test:/home/tumirk/ros2_humble/install/ros2component:/home/tumirk/ros2_humble/install/ros2param:/home/tumirk/ros2_humble/install/ros2lifecycle:/home/tumirk/ros2_humble/install/ros2service:/home/tumirk/ros2_humble/install/ros2run:/home/tumirk/ros2_humble/install/ros2launch:/home/tumirk/ros2_humble/install/ros2pkg:/home/tumirk/ros2_humble/install/ros2node:/home/tumirk/ros2_humble/install/ros2multicast:/home/tumirk/ros2_humble/install/ros2interface:/home/tumirk/ros2_humble/install/ros2doctor:/home/tumirk/ros2_humble/install/ros2action:/home/tumirk/ros2_humble/install/ros2cli:/home/tumirk/ros2_humble/install/quality_of_service_demo_py:/home/tumirk/ros2_humble/install/lifecycle_py:/home/tumirk/ros2_humble/install/launch_testing_ros:/home/tumirk/ros2_humble/install/launch_ros:/home/tumirk/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_service:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_publisher:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_client:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_server:/home/tumirk/ros2_humble/install/examples_rclpy_minimal_action_client:/home/tumirk/ros2_humble/install/examples_rclpy_guard_conditions:/home/tumirk/ros2_humble/install/examples_rclpy_executors:/home/tumirk/ros2_humble/install/demo_nodes_py:/home/tumirk/ros2_humble/install/camera_info_manager_py:/home/tumirk/ros2_humble/install/action_tutorials_py:/home/tumirk/ros2_humble/install/ament_uncrustify:/home/tumirk/ros2_humble/install/tracetools_trace:/home/tumirk/ros2_humble/install/tracetools_read:/home/tumirk/ros2_humble/install/test_tracetools_launch:/home/tumirk/ros2_humble/install/test_launch_ros:/home/tumirk/ros2_humble/install/sensor_msgs_py:/home/tumirk/ros2_humble/install/rpyutils:/home/tumirk/ros2_humble/install/rosidl_runtime_py:/home/tumirk/ros2_humble/install/rosidl_cli:/home/tumirk/ros2_humble/install/launch_pytest:/home/tumirk/ros2_humble/install/launch_testing:/home/tumirk/ros2_humble/install/launch_yaml:/home/tumirk/ros2_humble/install/launch_xml:/home/tumirk/ros2_humble/install/launch:/home/tumirk/ros2_humble/install/osrf_pycommon:/home/tumirk/ros2_humble/install/domain_coordinator:/home/tumirk/ros2_humble/install/ament_xmllint:/home/tumirk/ros2_humble/install/ament_pyflakes:/home/tumirk/ros2_humble/install/ament_pycodestyle:/home/tumirk/ros2_humble/install/ament_pep257:/home/tumirk/ros2_humble/install/ament_pclint:/home/tumirk/ros2_humble/install/ament_package:/home/tumirk/ros2_humble/install/ament_mypy:/home/tumirk/ros2_humble/install/ament_lint_cmake:/home/tumirk/ros2_humble/install/ament_flake8:/home/tumirk/ros2_humble/install/ament_copyright:/home/tumirk/ros2_humble/install/ament_lint:/home/tumirk/ros2_humble/install/ament_index_python:/home/tumirk/ros2_humble/install/ament_cpplint:/home/tumirk/ros2_humble/install/ament_cppcheck:/home/tumirk/ros2_humble/install/ament_clang_tidy:/home/tumirk/ros2_humble/install/ament_clang_format /usr/bin/cmake --install /home/tumirk/thesis_ws/build/interfaces

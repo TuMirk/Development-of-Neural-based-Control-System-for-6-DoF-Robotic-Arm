@@ -1,0 +1,15 @@
+/home/tumirk/thesis_ws/install/bringup/share/bringup//launch/test.launch.xml
+/home/tumirk/thesis_ws/install/bringup/share/bringup//launch/real.launch.xml
+/home/tumirk/thesis_ws/install/bringup/share/ament_index/resource_index/package_run_dependencies/bringup
+/home/tumirk/thesis_ws/install/bringup/share/ament_index/resource_index/parent_prefix_path/bringup
+/home/tumirk/thesis_ws/install/bringup/share/bringup/environment/ament_prefix_path.dsv
+/home/tumirk/thesis_ws/install/bringup/share/bringup/environment/path.dsv
+/home/tumirk/thesis_ws/install/bringup/share/bringup/local_setup.bash
+/home/tumirk/thesis_ws/install/bringup/share/bringup/local_setup.sh
+/home/tumirk/thesis_ws/install/bringup/share/bringup/local_setup.zsh
+/home/tumirk/thesis_ws/install/bringup/share/bringup/local_setup.dsv
+/home/tumirk/thesis_ws/install/bringup/share/bringup/package.dsv
+/home/tumirk/thesis_ws/install/bringup/share/ament_index/resource_index/packages/bringup
+/home/tumirk/thesis_ws/install/bringup/share/bringup/cmake/bringupConfig.cmake
+/home/tumirk/thesis_ws/install/bringup/share/bringup/cmake/bringupConfig-version.cmake
+/home/tumirk/thesis_ws/install/bringup/share/bringup/package.xml

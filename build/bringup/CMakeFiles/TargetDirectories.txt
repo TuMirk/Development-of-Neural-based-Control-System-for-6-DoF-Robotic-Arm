@@ -1,0 +1,9 @@
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/uninstall.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/bringup_uninstall.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/test.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/edit_cache.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/rebuild_cache.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/list_install_components.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/install.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/install/local.dir
+/home/tumirk/thesis_ws/build/bringup/CMakeFiles/install/strip.dir

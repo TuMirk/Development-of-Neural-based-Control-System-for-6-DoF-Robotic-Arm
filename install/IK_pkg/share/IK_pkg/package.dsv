@@ -1,0 +1,6 @@
+source;share/IK_pkg/hook/pythonpath.ps1
+source;share/IK_pkg/hook/pythonpath.dsv
+source;share/IK_pkg/hook/pythonpath.sh
+source;share/IK_pkg/hook/ament_prefix_path.ps1
+source;share/IK_pkg/hook/ament_prefix_path.dsv
+source;share/IK_pkg/hook/ament_prefix_path.sh

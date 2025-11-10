@@ -1,0 +1,7 @@
+{
+  "package_name": "interfaces",
+  "non_idl_tuples": [
+    "/home/tumirk/thesis_ws/src/interfaces:srv/ComputeIK.srv",
+    "/home/tumirk/thesis_ws/src/interfaces:srv/ControlMotor.srv"
+  ]
+}

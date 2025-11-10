@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="IK_pkg" exec="bci_node_test" name="bci_node_test" output="screen" launch-prefix="gnome-terminal --"/>
+    <node pkg="IK_pkg" exec="user_node" name="user_node" output="screen" launch-prefix="gnome-terminal --"/>
+    <node pkg="IK_pkg" exec="computation_node" name="computation_node" output="screen" launch-prefix="gnome-terminal --"/>
+    <node pkg="IK_pkg" exec="motor_node" name="motor_node" output="screen" launch-prefix="gnome-terminal --"/>
+</launch>

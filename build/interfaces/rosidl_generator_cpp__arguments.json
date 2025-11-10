@@ -1,0 +1,28 @@
+{
+  "package_name": "interfaces",
+  "output_dir": "/home/tumirk/thesis_ws/build/interfaces/rosidl_generator_cpp/interfaces",
+  "template_dir": "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource",
+  "idl_tuples": [
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces:srv/ComputeIK.idl",
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces:srv/ControlMotor.idl"
+  ],
+  "target_dependencies": [
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../local/lib/python3.10/dist-packages/rosidl_generator_cpp/__init__.py",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__builder.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__struct.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__traits.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__builder.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__struct.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__traits.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__builder.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__struct.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__traits.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__builder.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__struct.hpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__traits.hpp.em",
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces/srv/ComputeIK.idl",
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces/srv/ControlMotor.idl"
+  ]
+}

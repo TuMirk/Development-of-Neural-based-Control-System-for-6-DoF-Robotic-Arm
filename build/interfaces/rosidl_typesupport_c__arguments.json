@@ -1,0 +1,19 @@
+{
+  "package_name": "interfaces",
+  "output_dir": "/home/tumirk/thesis_ws/build/interfaces/rosidl_typesupport_c/interfaces",
+  "template_dir": "/home/tumirk/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces:srv/ComputeIK.idl",
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces:srv/ControlMotor.idl"
+  ],
+  "target_dependencies": [
+    "/home/tumirk/ros2_humble/install/rosidl_typesupport_c/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/home/tumirk/ros2_humble/install/rosidl_typesupport_c/local/lib/python3.10/dist-packages/rosidl_typesupport_c/__init__.py",
+    "/home/tumirk/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/home/tumirk/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/home/tumirk/ros2_humble/install/rosidl_typesupport_c/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces/srv/ComputeIK.idl",
+    "/home/tumirk/thesis_ws/build/interfaces/rosidl_adapter/interfaces/srv/ControlMotor.idl"
+  ]
+}

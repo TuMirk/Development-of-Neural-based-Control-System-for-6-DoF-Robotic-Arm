@@ -1,0 +1,29 @@
+[1.454s] Invoking command in '/home/tumirk/thesis_ws/src/IK_pkg': PYTHONPATH=/home/tumirk/thesis_ws/build/IK_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/IK_pkg build --build-base /home/tumirk/thesis_ws/build/IK_pkg/build install --record /home/tumirk/thesis_ws/build/IK_pkg/install.log --single-version-externally-managed install_data
+[1.973s] running egg_info
+[1.974s] writing ../../build/IK_pkg/IK_pkg.egg-info/PKG-INFO
+[1.974s] writing dependency_links to ../../build/IK_pkg/IK_pkg.egg-info/dependency_links.txt
+[1.975s] writing entry points to ../../build/IK_pkg/IK_pkg.egg-info/entry_points.txt
+[1.975s] writing requirements to ../../build/IK_pkg/IK_pkg.egg-info/requires.txt
+[1.975s] writing top-level names to ../../build/IK_pkg/IK_pkg.egg-info/top_level.txt
+[1.977s] reading manifest file '../../build/IK_pkg/IK_pkg.egg-info/SOURCES.txt'
+[1.977s] adding license file 'LICENSE'
+[1.978s] writing manifest file '../../build/IK_pkg/IK_pkg.egg-info/SOURCES.txt'
+[1.978s] running build
+[1.978s] running build_py
+[1.978s] copying IK_pkg/computation_node.py -> /home/tumirk/thesis_ws/build/IK_pkg/build/lib/IK_pkg
+[1.978s] copying IK_pkg/user_node.py -> /home/tumirk/thesis_ws/build/IK_pkg/build/lib/IK_pkg
+[1.979s] running install
+[1.979s] running install_lib
+[1.980s] copying /home/tumirk/thesis_ws/build/IK_pkg/build/lib/IK_pkg/computation_node.py -> /home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages/IK_pkg
+[1.980s] copying /home/tumirk/thesis_ws/build/IK_pkg/build/lib/IK_pkg/user_node.py -> /home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages/IK_pkg
+[1.982s] byte-compiling /home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages/IK_pkg/computation_node.py to computation_node.cpython-310.pyc
+[1.985s] byte-compiling /home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages/IK_pkg/user_node.py to user_node.cpython-310.pyc
+[1.985s] running install_data
+[1.986s] running install_egg_info
+[1.989s] removing '/home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages/IK_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.990s] Copying ../../build/IK_pkg/IK_pkg.egg-info to /home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages/IK_pkg-0.0.0-py3.10.egg-info
+[1.991s] running install_scripts
+[2.032s] Installing ik_client_node script to /home/tumirk/thesis_ws/install/IK_pkg/lib/IK_pkg
+[2.033s] Installing ik_server_node script to /home/tumirk/thesis_ws/install/IK_pkg/lib/IK_pkg
+[2.033s] writing list of installed files to '/home/tumirk/thesis_ws/build/IK_pkg/install.log'
+[2.059s] Invoked command in '/home/tumirk/thesis_ws/src/IK_pkg' returned '0': PYTHONPATH=/home/tumirk/thesis_ws/build/IK_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tumirk/thesis_ws/install/IK_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/IK_pkg build --build-base /home/tumirk/thesis_ws/build/IK_pkg/build install --record /home/tumirk/thesis_ws/build/IK_pkg/install.log --single-version-externally-managed install_data

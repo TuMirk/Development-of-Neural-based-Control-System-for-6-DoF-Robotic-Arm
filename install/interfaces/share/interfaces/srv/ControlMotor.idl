@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/ControlMotor.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    typedef int32 int32__4[4];
+    struct ControlMotor_Request {
+      int32__4 integer_values;
+    };
+    typedef float float__6[6];
+    struct ControlMotor_Response {
+      float__6 final_joint_angles;
+    };
+  };
+};

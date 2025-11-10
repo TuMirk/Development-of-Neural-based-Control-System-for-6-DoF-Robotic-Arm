@@ -1,0 +1,8 @@
+srv/ComputeIK.idl
+srv/ComputeIK.srv
+srv/ComputeIK_Request.msg
+srv/ComputeIK_Response.msg
+srv/ControlMotor.idl
+srv/ControlMotor.srv
+srv/ControlMotor_Request.msg
+srv/ControlMotor_Response.msg

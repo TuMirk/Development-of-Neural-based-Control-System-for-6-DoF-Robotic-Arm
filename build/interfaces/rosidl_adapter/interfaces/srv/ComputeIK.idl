@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/ComputeIK.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct ComputeIK_Request {
+      int32 row;
+
+      int32 col;
+    };
+    typedef int32 int32__4[4];
+    struct ComputeIK_Response {
+      int32__4 integer_values;
+    };
+  };
+};

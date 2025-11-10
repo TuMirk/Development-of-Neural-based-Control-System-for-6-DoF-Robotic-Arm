@@ -1,0 +1,7 @@
+[console_scripts]
+bci_node_real = IK_pkg.bci_node_real:main
+bci_node_test = IK_pkg.bci_node_test:main
+computation_node = IK_pkg.computation_node:main
+motor_node = IK_pkg.motor_node:main
+user_node = IK_pkg.user_node:main
+
